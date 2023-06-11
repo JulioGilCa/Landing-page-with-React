@@ -1,9 +1,10 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 
+
 const MyCard = (props) => {
   return (
-    <Card style={{ width: "16rem" }}>
+    <Card className="m-2" style={{ width: "16rem" }}>
       <Card.Img variant="top" src={props.image} alt={props.title} />
       <Card.Body>
         <Card.Title className="text-center">

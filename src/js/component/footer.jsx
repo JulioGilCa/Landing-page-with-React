@@ -7,7 +7,7 @@ function Footerview() {
     <>
       <Navbar bg="dark" variant="dark">
         <Container className="d-flex justify-content-center text-white">
-        <p>CopyRight 2023</p>
+        <p>Copyright JuliCode 2023</p>
         </Container>
       </Navbar>
     </>

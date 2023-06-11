@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 function Jumboview() {
   return (
     <>
-      <Container className="bg-light p-4 my-2">
+      <Container className="bg-light p-5 my-3">
         <h1 className="fs-1">A Warm Welcome!!!</h1>
         <p className="text-align-justify">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias
